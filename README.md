@@ -62,19 +62,19 @@ Usuário abre chamado → vira um card → equipe de suporte assume → moviment
 
 <h2>📸 Screenshots</h2>
 
-<h3>🧩 Painel Kanban</h3>
-<p align="center">
-  <img src="docs/images/kanban.png" width="800"/>
-</p>
-
 <h3>📝 Abertura de chamado</h3>
 <p align="center">
-  <img src="docs/images/formulario.png" width="800"/>
+  <img src="https://raw.githubusercontent.com/GustavoChaconDeveloper/Kanban-Chamados/refs/heads/main/KanBan-Forms.png" width="800"/>
 </p>
 
-<h3>📊 Dashboard</h3>
+<h3>Área do BackOffice - 1</h3>
 <p align="center">
-  <img src="docs/images/dashboard.png" width="800"/>
+  <img src="https://raw.githubusercontent.com/GustavoChaconDeveloper/Kanban-Chamados/refs/heads/main/KanBan1.png" width="800"/>
+</p>
+
+<h3>Área do BackOffice - 2</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GustavoChaconDeveloper/Kanban-Chamados/refs/heads/main/Kanban2.png" width="800"/>
 </p>
 
 <hr/>
