@@ -83,9 +83,3 @@ Usuário abre chamado → vira um card → suporte assume → movimenta até a r
 <p>
 Fique à vontade para abrir uma issue ou enviar um pull request.
 </p>
-
-<hr/>
-
-<h2>📄 Licença</h2>
-
-<p>Defina aqui a licença do projeto.</p>
